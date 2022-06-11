@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-getroomsapp-dev-125447-authRole",
+      "UnauthRoleArn": "arn:aws:iam::020824114675:role/amplify-getroomsapp-dev-125447-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::020824114675:role/amplify-getroomsapp-dev-125447-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-getroomsapp-dev-125447-deployment",
+      "UnauthRoleName": "amplify-getroomsapp-dev-125447-unauthRole",
+      "StackName": "amplify-getroomsapp-dev-125447",
+      "StackId": "arn:aws:cloudformation:eu-west-1:020824114675:stack/amplify-getroomsapp-dev-125447/2ece51f0-f5d3-11eb-ad1b-0af123255cfd",
+      "AmplifyAppId": "d2rs3zh7jjzdxa"
+    },
+    "categories": {
+      "auth": {
+        "getroomsappdcfc27d7": {}
+      }
+    }
+  }
+}
